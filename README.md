@@ -19,9 +19,20 @@ Hi! If you wanna work with us, you gotta solve this first. Let's see what you've
 Using your favorite programming language:
 
 1. Implement bubble sort.
-3. Implement a linked list.
-4. Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).
-5. Using the twitter API, create a script that given a word as an input, outputs the last 10 tweets containing that word.
+- bubblesort.zip
+
+2. Implement a linked list.
+- linkedlist.zip
+
+3. Implement this [algorithm](https://www.hackerrank.com/challenges/game-of-stones-1)(💡️there is no need to signup to this website. Just commit the _gameOfStones_ function implementation and that's it.💡️).
+- stones.zip
+
+4. Using the twitter API, create a script that given a word as an input, outputs the last 10 tweets containing that word.
+- tweeter.zip
+
+This script uses tweepy and dotenv libraries
+- python -m pip install tweepy
+- python -m pip install python-dotenv
 
 ### Frontend
 
