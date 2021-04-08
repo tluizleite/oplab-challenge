@@ -59,7 +59,11 @@ _Please verify er-diagram.pdf file_
 
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
 
-_In progress..._
+_In many organizations it's a common practice to start a software development project using the ER model/diagram structure and specification as a starting point. I think a software development proccess is, and need, more than a ER model, it's only a small piece of the entire system specification._
+
+_Despite of the tools, frameworks and methodologies available today for a rapid software development, a software development proccess is a project and as a project it stands for a planning, analysis before coding/installation. A team is necessary to make a plan and brainstorm about requirements (in example: deadlines, financial, specifications, technology), limitations and risks, after planning and analysis phase the team should be able to start the project specifications, here we have tools like models and diagrams to document the project completely as possible. In this point, the project must be known by entire team, shall would be decided some technical specs like databases, programming language, platforms and other technologies stuff. After that, I think it's possible to use (or merge) some agile methodologies like SCRUM to distribute team tasks, make meeting regularly, define goals and deadlines and so on._
+
+_Like I said, I don't have much more experience on agile methodologies but I believe it's a starting point and making some adjustments as needed._
 
 That's it! Thanks for doing this test!
 
