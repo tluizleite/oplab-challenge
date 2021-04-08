@@ -50,9 +50,11 @@ _I know, I know... It looks easy compared to the frontend challenge; but don't b
 
 Answer the following questions:
 - Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
+
 _IMHO, one of the most applicable software development process with a small or tiny team is the SCRUM, although I don't have much experience with it but I know its a project management framework that focus on agile development.
 
 - How do you think an entity relationship diagram for _Instagram_ would be like?
+
 _In progress...
 
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
