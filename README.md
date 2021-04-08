@@ -34,11 +34,15 @@ This script uses tweepy and dotenv libraries
 - python -m pip install tweepy
 - python -m pip install python-dotenv
 
+The script expects an argument in command line, the keyword/phrase to search. The 10 tweets found are stored in a file.
+
 ### Frontend
 
 _We will be evaluating everything, from reproduction accuracy, to process. If you use ( with mastery ) tools/frameworks such as `gulp`, `react`, `angular`, `webpack`, etc..; we will take that in consideration. Also: we care about beautiful code (~~var~~) 👾_
 
 Reproduce, faithfully, this [page]( http://ydirection.com/Aria/index-3.html ).
+
+- frontend_public.zip
 
 ### Backend
 
@@ -46,7 +50,11 @@ _I know, I know... It looks easy compared to the frontend challenge; but don't b
 
 Answer the following questions:
 - Suppose you're working with 3 people on a project. What would be **the** ideal software development process?
+IMHO, one of the most applicable software development process with a small or tiny team is the SCRUM, although I don't have much experience with it but I know its a project management framework that focus on agile development.
+
 - How do you think an entity relationship diagram for _Instagram_ would be like?
+In progress...
+
 - Now that you have imagined the ER diagram, **how** would you build _Instagram_ from scratch?
 
 
