@@ -35,7 +35,7 @@ This script uses tweepy and dotenv libraries
 - python -m pip install python-dotenv
 
 The script expects an argument in command line, the keyword/phrase to search. The 10 tweets found are stored in a file called result.
-- Example: python searchTwitter "Big Brother Brasil"
+- Example: python searchTwitter.py "Big Brother Brasil"
 
 ### Frontend
 
